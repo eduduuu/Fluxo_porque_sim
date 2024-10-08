@@ -1,0 +1,1 @@
+Esse repositório contem alguns programas para resolver problemas usando fluxo de grafos, no caso, o algoritmo Edmons-Karp. São eles: definir se um número é par, definir o ganhador de um jogo de zerinho ou um e definir todos os números primos de um a n. Todos os problemas podem ser resolvidos muito simplesmente, mas eu decidi usar fluxo por que sim.
